@@ -1,3 +1,4 @@
+name              "chef-neo4j"
 maintainer        "Sebastian Wendel, SourceIndex IT-Services"
 maintainer_email  "packages@sourceindex.de"
 license           "Apache 2.0"
